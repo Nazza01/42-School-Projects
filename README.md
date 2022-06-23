@@ -5,4 +5,4 @@ All of my projects that have been completed are contained here and will be linke
 
 Current Progress:
 
-![current_progress](https://user-images.githubusercontent.com/9160772/159410740-8e24585d-ec29-4510-a82d-ade8a6700cc2.png)
+<img width="667" alt="Screen Shot 2022-06-23 at 19 13 46" src="https://user-images.githubusercontent.com/9160772/175269730-ce4215d8-8cc4-478c-beba-5079bdfb084f.png">
