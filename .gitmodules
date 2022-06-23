@@ -13,3 +13,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = git@github.com:Nazza01/get_next_line.git
+[submodule "Philo"]
+	path = Philo
+	url = git@github.com:Nazza01/Philo.git
